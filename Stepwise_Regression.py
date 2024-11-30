@@ -10,8 +10,6 @@ statsmodels for regression modeling.
 sklearn for loading the dataset.
 You can install these libraries using pip if you don't have them:
 
-bash
-Copy code
 pip install pandas numpy statsmodels scikit-learn
 2. Import Libraries and Load the Dataset'''
 
